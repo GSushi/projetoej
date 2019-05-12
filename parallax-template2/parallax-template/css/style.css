@@ -34,6 +34,7 @@ e2 {
 }
 
 .carousel {
+  position: relative;
   height: 300px;
 }
 
@@ -42,6 +43,7 @@ e2 {
 }
 
 .parallax-container {
+  position: relative;
   min-height: 380px;
   line-height: 0;
   height: auto;
@@ -110,6 +112,9 @@ e2 {
 
 }
 
+.relative {
+  position: relative;
+}
 
 
 @media only screen and (max-width : 992px) {
